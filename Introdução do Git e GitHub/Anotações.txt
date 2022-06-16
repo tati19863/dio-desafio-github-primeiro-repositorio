@@ -1,0 +1,7 @@
+Comandos Git Bash:
+
+git clone - baixa o projeto do github para a máquina
+
+Cd pasta\subpasta - acessa a pasta
+
+git status - ver status
